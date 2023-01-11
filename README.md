@@ -1,6 +1,6 @@
 # Fan-controller-system
 It is a system to control the fan speed its interfaces with a temperature sensor, dc motor, and LCD to display the reads of the temperature. The (fan) motor speed changes according to the temperature read from the LM35 sensor.
-### This video will show running the project on Proteus Simulation after the HEX file has been burned [Link is here](https://drive.google.com/file/d/1RdOZnXb1BpNHnK2sZa3RI4Noe3pLGcqJ/view?usp=sharing )
+### This video will show running the project on Proteus Simulation after the HEX file has been burned [Link is here](https://drive.google.com/file/d/1eRl15a4i71amiTC6HAbFCALYIci6XF3I/view?usp=sharing)
 
 All System Requirements you needed its in the snipping picture:
 
