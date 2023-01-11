@@ -8,4 +8,4 @@ All System Requirements you needed its in the snipping picture:
 ![control fan 2](https://user-images.githubusercontent.com/22917887/211688708-651ad5dd-f990-4fb8-9922-5c6e74727f05.png)
 ![control fan3](https://user-images.githubusercontent.com/22917887/211688712-f116c423-ef8c-436d-9789-04d68bb3510e.png)
 
-### This video will explain the summary of the project [Link is here]( )
+### This video will show running the project on Proteus Simulation after the HEX file has been burned [Link is here](https://drive.google.com/file/d/1RdOZnXb1BpNHnK2sZa3RI4Noe3pLGcqJ/view?usp=sharing )
