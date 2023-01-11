@@ -1,6 +1,6 @@
 # Fan-controller-system
 It is a system to control the fan speed its interfaces with a temperature sensor, dc motor, and LCD to display the reads of the temperature. The (fan) motor speed changes according to the temperature read from the LM35 sensor.
-### This video will show running the project hardware connection on the ATmega32 microcontroller after the HEX file has been burned [Fan with 0% and 25% of maximum speed](https://drive.google.com/file/d/1TJIBSno3GEpkTBCkUBpCxUL5Q-hgwTe9/view?usp=sharing ) [Fan with 50% and 75% of maximum speed](https://drive.google.com/file/d/1Lvz1PpKzRIBmc3F65m5m3Om6mpIHvWNa/view?usp=sharing )
+### This Link will show running the project hardware connection on the ATmega32 microcontroller after the HEX file has been burned [Fan with 0% and 25% of maximum speed](https://drive.google.com/file/d/1TJIBSno3GEpkTBCkUBpCxUL5Q-hgwTe9/view?usp=sharing ).The second Link [Fan with 50% and 75% of maximum speed](https://drive.google.com/file/d/1Lvz1PpKzRIBmc3F65m5m3Om6mpIHvWNa/view?usp=sharing )
 
 ### This video will show running the project on Proteus Simulation after the HEX file has been burned [Link is here](https://drive.google.com/file/d/1eRl15a4i71amiTC6HAbFCALYIci6XF3I/view?usp=sharing)
 
